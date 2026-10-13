@@ -25,9 +25,8 @@ ex) 이거 카드 결제 되나요? -> 결제로 예측
 
 #### 데이터셋
 
-- 데이터 출처: AI Hub
-    - 소상공인 고객 주문 질의-응답 텍스트: 9개 업종(음식점, 의류, 학원, 소매점, 생활서비스, 카페, 숙박업, 관광여가오락, 부동산)
-    - 공공 민원 상담 질의-응답 데이터: 4개 분야(교통, 상수도, 여권, 차량등록)
+- 데이터 출처: AI Hub ([https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=116](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=116))
+    - 소상공인 및 공공 민원 10개 분야에 대한 50만 건 이상의 대화를 제공하는 자연어 데이터라고 설명되어 있음
 - 파일: 업종별 엑셀 13개 (A 음식점(15,726)_new.xlsx ~ m 차량등록_최종본(250814).xlsx)
 
 파일 내부
